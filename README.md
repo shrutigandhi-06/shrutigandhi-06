@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **User recommedation system based on music compatibility**
 
-- 🌱 I’m currently learning **Distributed Systems and how to enhance software by integrating ML/AI**
+- 🌱 I’m currently learning **Distributed Systems and How to enhance software by integrating ML/AI**
 
 - 🤝 I’m looking for help with **Synthetic data creation**
 
